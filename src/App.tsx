@@ -35,6 +35,10 @@ const loveMessages = [
     id: 6,
     message: "You are my today and all of my tomorrows, my everything.",
     date: "Endless Love"
+  },  {
+    id: 7,
+    message: "لا اعلم سوى شيء واحد انني كلما اراك اتعافى من جروحي.... يضيئ قلبي يبتسم فاهي استريح في لون عينيك",
+    date: "Endless Love"
   }
 ];
 
